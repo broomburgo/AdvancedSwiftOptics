@@ -1,0 +1,8 @@
+- camera_lens.jpg
+	- https://www.njimedia.com/get-noticed-2/camera-lens/
+- functional_programming_owl.png
+	- https://www.reddit.com/r/ProgrammerHumor/comments/6d3eqh/functional_programming_for_beginners/
+- john_de_goes_tweet.jpg
+	- https://twitter.com/jdegoes/status/936301872066977792
+- bounaries_talk.jpg
+	- https://www.destroyallsoftware.com/talks/boundaries
